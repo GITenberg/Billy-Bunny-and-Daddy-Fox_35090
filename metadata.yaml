@@ -1,0 +1,36 @@
+_repo: Billy-Bunny-and-Daddy-Fox_35090
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Spencer, Hugh
+    birthdate: 1887
+    deathdate: 1975
+    gutenberg_agent_id: '33428'
+    url: http://www.gutenberg.org/2009/agents/33428
+covers:
+- cover_type: archival
+  image_path: 35090-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cory, David
+    alias: Cory, David Magie
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '871'
+    url: http://www.gutenberg.org/2009/agents/871
+description: ''
+gutenberg_issued: '2011-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foxes -- Juvenile fiction'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+title: Billy Bunny and Daddy Fox
+url: http://www.gutenberg.org/ebooks/35090
